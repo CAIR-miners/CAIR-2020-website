@@ -82,7 +82,7 @@ body {
 /*-- Task Section --*/
 
 .narrow {
-	width: 65%;
+	width: 80%;
 	margin: 2rem auto;
 	margin-top: 2rem;
 	margin-bottom: 2rem;
@@ -94,6 +94,24 @@ body {
 	font-weight: 700;
 }
 .narrow p {
+	font-size: 1.2rem;
+	/*text-shadow: .1rem .1rem .5rem black;*/
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+}
+.narrow-res {
+	width: 65%;
+	margin: 2rem auto;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+.narrow-res h1 {
+	font-size: 2.2rem;
+	margin-top: 2.5rem;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.narrow-res p {
 	font-size: 1.2rem;
 	/*text-shadow: .1rem .1rem .5rem black;*/
 	margin-bottom: 2rem;
